@@ -1,4 +1,4 @@
-| [Drink Water]() | [Live Demo](https://lana-20.github.io/drink-water/) |
+| [Drink Water](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/DrinkWater) | [Live Demo](https://lana-20.github.io/drink-water/) |
 |----|----|
 
 In this project, I am tracking cups of water, with a goal of 2 liters.
